@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74AVC16T245DGGRE4")(type "KiCad")(uri "${KIPRJMOD}/74AVC16T245DGGRE4.kicad_sym")(options "")(descr ""))
+)
